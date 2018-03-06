@@ -1,0 +1,53 @@
+Id,state,abbr,grad_degree,hs_degree,bs_degree,salary
+1,Alabama,AL,8.8,16.1,6.8,38.8
+2,Alaska,AK,9.6,14.5,7,55.6
+4,Arizona,AZ,10.3,17,6.9,40.8
+5,Arkansas,AR,7.5,14.2,7.4,32.9
+6,California,CA,11.8,13,9.5,44.6
+8,Colorado,CO,14.3,12.7,11.2,53
+9,Connecticut,CT,16.7,11.8,14.1,56.5
+10,Delaware,DE,12.3,15.3,8.5,48.4
+11,District of Columbia,DC,30.6,11.7,23.7,53.7
+12,Florida,FL,9.8,16.5,8.2,40.1
+13,Georgia,GA,10.8,16.9,8.2,41.5
+15,Hawaii,HI,10.5,8.5,7.5,49.1
+16,Idaho,ID,8.3,14.1,5.5,41.9
+17,Illinois,IL,12.7,12.8,12.9,48.1
+18,Indiana,IN,8.9,17,9,41.3
+19,Iowa,IA,9,10.7,9.8,47.7
+20,Kansas,KS,11.3,12.7,10.3,45.9
+21,Kentucky,KY,9.2,13.3,8.4,37.4
+22,Louisiana,LA,7.8,19.2,7.2,40.8
+23,Maine,ME,10,11.9,10.9,42.9
+24,Maryland,MD,17.5,12.2,12.7,58
+25,Massachusetts,MA,18,10.2,17.2,54
+26,Michigan,MI,10.8,13.1,9.7,44.7
+27,Minnesota,MN,11.6,12,12.8,53.6
+28,Mississippi,MS,8,17.9,5.7,30.5
+29,Missouri,MO,10.4,13.2,9.2,44.5
+30,Montana,MT,9.8,13.3,6.7,41.4
+31,Nebraska,NE,9.3,10.6,10.9,46.6
+32,Nevada,NV,7.9,18.2,5.4,44
+33,New Hampshire,NH,13.3,11.4,12,55.8
+34,New Jersey,NJ,14.3,12.1,14.4,55.9
+35,New Mexico,NM,11.4,18.3,5,34.6
+36,New York,NY,14.9,12.8,15.1,45.9
+37,North Carolina,NC,10.1,13.8,9.5,40
+38,North Dakota,ND,7.6,10.9,12.9,51.8
+39,Ohio,OH,10.1,13.7,9.5,44
+40,Oklahoma,OK,8.1,16.6,7.1,40.2
+41,Oregon,OR,11.6,13.6,7.6,43.4
+42,Pennsylvania,PA,11.4,12,12.1,47.1
+44,Rhode Island,RI,12.3,11.2,12.1,49.1
+45,South Carolina,SC,9.6,14.5,8.4,37.7
+46,South Dakota,SD,7.8,16,7.1,45.2
+47,Tennessee,TN,9.1,12.9,8.8,37.2
+48,Texas,TX,9.6,16.3,7.8,42.4
+49,Utah,UT,10.3,14.1,6.6,51.5
+50,Vermont,VT,14,8.6,12.7,48.2
+51,Virginia,VA,15.9,10.8,12.1,52.1
+53,Washington,WA,12.1,15.2,10.6,51.9
+54,West Virginia,WV,7.4,14.2,6.9,35.3
+55,Wisconsin,WI,9.5,11.1,10.5,46.6
+56,Wyoming,WY,8.7,12,6.6,50.7
+72,Puerto Rico,PR,7.1,11,7.6,7.9
